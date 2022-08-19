@@ -10,7 +10,6 @@
 # Inputted variables
 appNamePath="$4"
 
-
 if [[ -z "${appNamePath}" ]]; then
     echo "No application specified!"
     exit 1
