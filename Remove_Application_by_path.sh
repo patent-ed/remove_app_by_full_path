@@ -3,7 +3,7 @@
 #######################################################################
 #
 # Remove Application Script for Jamf Pro
-# Designed for used in Jamf Pro, 
+# Designed for use in Jamf Pro, Set Script Parameter 4 - Full Application Path to Name
 #
 #######################################################################
 
