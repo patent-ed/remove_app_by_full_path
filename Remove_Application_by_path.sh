@@ -3,8 +3,8 @@
 #######################################################################
 #
 # Remove Application Script for Jamf Pro
-# Designed for use in Jamf Pro, Set Script Parameter 4 - Full Application Path to Name
-#
+# #1 Step - Designed for use in Jamf Pro, Set Script Parameter 4 - Full Application Path to Name
+# #2 Step - Set Policy and #4 paramter = full path to app, ie: /Applications/Hue Sync.app
 #######################################################################
 
 # Inputted variables
